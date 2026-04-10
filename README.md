@@ -24,7 +24,7 @@ Industry benchmarks from HubSpot and Chartmogul
 
 ## Live Model
 [https://docs.google.com/spreadsheets/d/1J589twYnggAElNA8_yeKwV6hXYp5o3gPJjUYr4_iM18/edit]
-( 1J589twYnggAElNA8_yeKwV6hXYp5o3gPJjUYr4_iM18)
+
 ## Skills Demonstrated
 
 Growth Modelling
